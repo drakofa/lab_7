@@ -17,7 +17,6 @@ namespace ClassLibrary1
         {
             throw new NotImplementedException();
         }
-
         public Var02_TheAudience(string name, Var01_Class employee, string Places, string window, Var01_Class equipment)
         {
             this.name = name;
@@ -26,7 +25,6 @@ namespace ClassLibrary1
             this.window = window;
             this.equipment = equipment;
         }
-
     }
 }
 
