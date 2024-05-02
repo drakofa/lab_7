@@ -10,7 +10,6 @@ namespace ClassLibrary1
             this.name = name;
             this.abbreviation = abbreviation;
         }
-
         public string GetDisciplineInfo()
         {
             string disciplineInfo = "Дисциплина: " + name + "\n" + "Сокращение: " + abbreviation;
