@@ -22,7 +22,6 @@ namespace ClassLibrary1
             get { return Salary; }
             set => Salary = value;
         }
-
         private Var10_Post(string Name, string salary,  string division)
         {            
             name = Name;
