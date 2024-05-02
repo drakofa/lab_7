@@ -8,7 +8,6 @@ namespace ClassLibrary1
         {
             Occupation = Class;
         }
-
         public string Occupation
         {
             get { return Class; }
