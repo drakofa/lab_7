@@ -11,18 +11,15 @@ public class Var06_Specialty
         name = name;
         sokra = sokra;
         date = date ?? DateTime.Today;
-    }
-    
+    } 
     public string Name()
     {
         return name;
     }
-    
     public string Sokr()
     {
         return sokrash;
     }
-    
     public DateTime Date()
     {
         return date;
